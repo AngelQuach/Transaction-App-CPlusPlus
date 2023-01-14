@@ -1,4 +1,4 @@
-# Transaction-App-CPlusPlus
+# Transaction-Tracking-Program-CPlusPlus
 
 What is this program?
 - This program simulates a transaction-tracking app.
